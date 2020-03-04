@@ -1,4 +1,4 @@
-# Problem-Solving
+## Problem-Solving
 
 :dart: I have prepared this repository during my coding ***interview preparation***. Basically I have implemented various logical problems in **Python**.
 
