@@ -25,7 +25,7 @@ def reverse_me(head):
         temp.next = p1
         p1 = temp
 
-    traverse_list(p1)
+    return p1
 
 
 first_node = Node(1)
@@ -39,4 +39,5 @@ first_node.next = second_node
 second_node.next = third_node
 third_node.next = fourth_node
 
-reverse_me(first_node)
+rev = reverse_me(first_node)
+traverse_list(rev)
