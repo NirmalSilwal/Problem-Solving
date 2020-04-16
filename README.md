@@ -6,6 +6,8 @@
 
 :pencil2: Filename is self explanatory for those directly wanting to jump over the interview problem.
 
-:point_right: *Also you will find my solutions easy to understand due to standard naming conventions.*
+:point_right: *Also you will find my solutions easy to understand due to standard naming convention.*
+
+:gem: **CodingBlocks** folder has all the assignment and practice coursework while taking *Data Structure using Java* course.
 
 :eyes: ***I will keep adding the challenging problems and their solutions on regualr basis.***  :smiley:
