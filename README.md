@@ -10,4 +10,3 @@
 
 :gem: **CodingBlocks** folder has all the assignment and practice coursework while taking *Data Structure using Java* course.
 
-:eyes: ***I will keep adding the challenging problems and their solutions on regualr basis.***  :smiley:
